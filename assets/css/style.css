@@ -176,3 +176,7 @@ color: whitesmoke;
   border-top-width: thick;
   border-top-color: #4aaaa5;
 }
+
+@media screen and (max-width: 980px) { }
+@media screen and (max-width: 768px) { }
+@media screen and (max-width: 640px) { }
