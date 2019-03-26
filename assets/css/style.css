@@ -215,6 +215,37 @@ color: whitesmoke;
   font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
   color: #ffffff
   }
+  
+  .textbox {
+    box-sizing: content-box;  
+    background: #ffffff;
+    margin: auto;
+    width: 90%;
+    height: 75%;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+  }  
+  .content {
+    background-color:#4aaaa5;
+    color: whitesmoke;
+    font-size: 20px;
+    border: 7.5px solid #dddddd;
+    height: 30%;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .content2 {
+    background-color:#4aaaa5;
+    margin: auto;
+    color: whitesmoke;
+    font-size: 15px;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+    width: 20%;
+    height: 150px;
+  }
+  
   .Site-footer {
     -webkit-box-flex: 0;
     -webkit-flex: none;
@@ -273,6 +304,37 @@ color: whitesmoke;
   font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
   color: #ffffff
   }
+  
+  .textbox {
+    box-sizing: content-box;  
+    background: #ffffff;
+    margin: auto;
+    width: 90%;
+    height: 75%;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+  }  
+  .content {
+    background-color:#4aaaa5;
+    color: whitesmoke;
+    font-size: 20px;
+    border: 7.5px solid #dddddd;
+    height: 30%;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .content2 {
+    background-color:#4aaaa5;
+    margin: auto;
+    color: whitesmoke;
+    font-size: 15px;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+    width: 20%;
+    height: 150px;
+  }
+  
   .Site-footer {
     -webkit-box-flex: 0;
     -webkit-flex: none;
@@ -331,6 +393,37 @@ color: whitesmoke;
   font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
   color: #ffffff
   }
+  
+  .textbox {
+    box-sizing: content-box;  
+    background: #ffffff;
+    margin: auto;
+    width: 90%;
+    height: 75%;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+  }  
+  .content {
+    background-color:#4aaaa5;
+    color: whitesmoke;
+    font-size: 20px;
+    border: 7.5px solid #dddddd;
+    height: 30%;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .content2 {
+    background-color:#4aaaa5;
+    margin: auto;
+    color: whitesmoke;
+    font-size: 15px;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
+    width: 20%;
+    height: 150px;
+  }
+  
   .Site-footer {
     -webkit-box-flex: 0;
     -webkit-flex: none;
