@@ -123,15 +123,16 @@ color: whitesmoke;
 }
 
 .content {
+  box-sizing: content-box;  
   background-color:#4aaaa5;
   color: whitesmoke;
   font-size: 25px;
-  border: 7.5px solid #dddddd;
-  height: auto;
+  margin: auto;
   width: 90%;
   max-width: 600px;
-  margin: auto
-  padding: 30px;
+  height: auto;
+  padding: 30px;  
+  border: 7.5px solid #dddddd;
 }
 
 .Site-footer {
@@ -204,15 +205,16 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
   }
   .content {
+    box-sizing: content-box;  
     background-color:#4aaaa5;
     color: whitesmoke;
     font-size: 25px;
-    border: 7.5px solid #dddddd;
-    height: auto;
+    margin: auto;
     width: 90%;
     max-width: 600px;
-    margin: auto
-    padding: 30px;
+    height: auto;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
   }
 
   .Site-footer {
@@ -285,15 +287,16 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
   }
   .content {
+    box-sizing: content-box;  
     background-color:#4aaaa5;
     color: whitesmoke;
     font-size: 25px;
-    border: 7.5px solid #dddddd;
-    height: auto;
+    margin: auto;
     width: 90%;
     max-width: 600px;
-    margin: auto
-    padding: 30px;
+    height: auto;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
   }
   
   .Site-footer {
@@ -366,15 +369,16 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
   }
   .content {
+    box-sizing: content-box;  
     background-color:#4aaaa5;
     color: whitesmoke;
     font-size: 25px;
-    border: 7.5px solid #dddddd;
-    height: auto;
+    margin: auto;
     width: 90%;
     max-width: 600px;
-    margin: auto
-    padding: 30px;
+    height: auto;
+    padding: 30px;  
+    border: 7.5px solid #dddddd;
   }
 
   .Site-footer {
