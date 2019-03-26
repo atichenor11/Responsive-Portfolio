@@ -149,13 +149,14 @@ color: whitesmoke;
 
 .content2 {
   background-color:#4aaaa5;
-  margin: 15px;
   color: whitesmoke;
-  font-size: 15px;
-  padding: 5%;  
+  font-size: 15px; 
   border: 7.5px solid #dddddd;
   width: 20%;
+  margin: auto;
+  max-width: 200px;
   height: auto;
+  padding: 15px; 
 }
 
 .Site-footer {
@@ -239,13 +240,14 @@ color: whitesmoke;
   
   .content2 {
     background-color:#4aaaa5;
-    margin: 15px;
     color: whitesmoke;
-    font-size: 15px;
-    padding: 5%;  
+    font-size: 15px; 
     border: 7.5px solid #dddddd;
     width: 20%;
+    margin: auto;
+    max-width: 200px;
     height: auto;
+    padding: 15px; 
   }
 
   .Site-footer {
@@ -329,13 +331,14 @@ color: whitesmoke;
   
   .content2 {
     background-color:#4aaaa5;
-    margin: 15px;
     color: whitesmoke;
-    font-size: 15px;
-    padding: 5%;  
+    font-size: 15px; 
     border: 7.5px solid #dddddd;
     width: 20%;
+    margin: auto;
+    max-width: 200px;
     height: auto;
+    padding: 15px; 
   }
   
   .Site-footer {
@@ -419,13 +422,14 @@ color: whitesmoke;
   
   .content2 {
     background-color:#4aaaa5;
-    margin: 15px;
     color: whitesmoke;
-    font-size: 15px;
-    padding: 5%;  
+    font-size: 15px; 
     border: 7.5px solid #dddddd;
     width: 20%;
+    margin: auto;
+    max-width: 200px;
     height: auto;
+    padding: 15px; 
   }
 
   .Site-footer {
