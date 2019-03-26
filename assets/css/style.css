@@ -122,41 +122,16 @@ transform: translate(-50%, -50%);
 color: whitesmoke;
 }
 
-.row {
-  margin: 8px -16px;
-}
-
-.column {
-  float: left;
-  width: 35%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .content {
   background-color:#4aaaa5;
   color: whitesmoke;
-  font-size: 20px;
+  font-size: 25px;
   border: 7.5px solid #dddddd;
-  height: 30%;
-  width: 50%;
-  margin: 15px;
-}
-
-.content2 {
-  background-color:#4aaaa5;
-  color: whitesmoke;
-  font-size: 15px; 
-  border: 7.5px solid #dddddd;
-  width: 20%;
-  margin: auto;
-  max-width: 200px;
   height: auto;
-  padding: 15px; 
+  width: 90%;
+  max-width: 600px;
+  margin: auto
+  padding: 30px;
 }
 
 .Site-footer {
@@ -231,23 +206,13 @@ color: whitesmoke;
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 25px;
     border: 7.5px solid #dddddd;
-    height: 30%;
-    width: 50%;
-    margin: 15px;
-  }
-  
-  .content2 {
-    background-color:#4aaaa5;
-    color: whitesmoke;
-    font-size: 15px; 
-    border: 7.5px solid #dddddd;
-    width: 20%;
-    margin: auto;
-    max-width: 200px;
     height: auto;
-    padding: 15px; 
+    width: 90%;
+    max-width: 600px;
+    margin: auto
+    padding: 30px;
   }
 
   .Site-footer {
@@ -322,23 +287,13 @@ color: whitesmoke;
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 25px;
     border: 7.5px solid #dddddd;
-    height: 30%;
-    width: 50%;
-    margin: 15px;
-  }
-  
-  .content2 {
-    background-color:#4aaaa5;
-    color: whitesmoke;
-    font-size: 15px; 
-    border: 7.5px solid #dddddd;
-    width: 20%;
-    margin: auto;
-    max-width: 200px;
     height: auto;
-    padding: 15px; 
+    width: 90%;
+    max-width: 600px;
+    margin: auto
+    padding: 30px;
   }
   
   .Site-footer {
@@ -413,23 +368,13 @@ color: whitesmoke;
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 25px;
     border: 7.5px solid #dddddd;
-    height: 30%;
-    width: 50%;
-    margin: 15px;
-  }
-  
-  .content2 {
-    background-color:#4aaaa5;
-    color: whitesmoke;
-    font-size: 15px; 
-    border: 7.5px solid #dddddd;
-    width: 20%;
-    margin: auto;
-    max-width: 200px;
     height: auto;
-    padding: 15px; 
+    width: 90%;
+    max-width: 600px;
+    margin: auto
+    padding: 30px;
   }
 
   .Site-footer {
