@@ -1,5 +1,5 @@
 .header {  
-  padding: 0px 200px 0px 200px;
+  padding: 0px 15% 0px 15%;
   background: #4aaaa5;
   color: white;
   font-size: 17px;
@@ -41,7 +41,8 @@ color: #ffffff
   background: #ffffff;
   margin: auto;
   width: 90%;
-  height: 75%;
+  max-width: 600px;
+  height: auto;
   padding: 30px;  
   border: 7.5px solid #dddddd;
 }
@@ -98,7 +99,7 @@ label {
 }
 
 body, html {
-  height: 75%;
+  height: 100%;
 }
 
 .hero-image {
@@ -151,10 +152,10 @@ color: whitesmoke;
   margin: auto;
   color: whitesmoke;
   font-size: 15px;
-  padding: 30px;  
+  padding: 5%;  
   border: 7.5px solid #dddddd;
   width: 20%;
-  height: 150px;
+  height: auto;
 }
 
 .Site-footer {
@@ -179,7 +180,7 @@ color: whitesmoke;
 
 @media screen and (max-width: 980px) { 
   .header {  
-    padding: 0px 200px 0px 200px;
+    padding: 0px 15% 0px 15%;
     background: #4aaaa5;
     color: white;
     font-size: 17px;
@@ -221,10 +222,11 @@ color: whitesmoke;
     background: #ffffff;
     margin: auto;
     width: 90%;
-    height: 75%;
+    max-width: 600px;
+    height: auto;
     padding: 30px;  
     border: 7.5px solid #dddddd;
-  }  
+  }
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
@@ -240,12 +242,12 @@ color: whitesmoke;
     margin: auto;
     color: whitesmoke;
     font-size: 15px;
-    padding: 30px;  
+    padding: 5%;  
     border: 7.5px solid #dddddd;
     width: 20%;
-    height: 150px;
+    height: auto;
   }
-  
+
   .Site-footer {
     -webkit-box-flex: 0;
     -webkit-flex: none;
@@ -268,7 +270,7 @@ color: whitesmoke;
 }
 @media screen and (max-width: 768px) { 
   .header {  
-    padding: 0px 200px 0px 200px;
+    padding: 0px 15% 0px 15%;
     background: #4aaaa5;
     color: white;
     font-size: 17px;
@@ -310,10 +312,11 @@ color: whitesmoke;
     background: #ffffff;
     margin: auto;
     width: 90%;
-    height: 75%;
+    max-width: 600px;
+    height: auto;
     padding: 30px;  
     border: 7.5px solid #dddddd;
-  }  
+  }
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
@@ -329,10 +332,10 @@ color: whitesmoke;
     margin: auto;
     color: whitesmoke;
     font-size: 15px;
-    padding: 30px;  
+    padding: 5%;  
     border: 7.5px solid #dddddd;
     width: 20%;
-    height: 150px;
+    height: auto;
   }
   
   .Site-footer {
@@ -357,7 +360,7 @@ color: whitesmoke;
 }
 @media screen and (max-width: 640px) { 
   .header {  
-    padding: 0px 200px 0px 200px;
+    padding: 0px 15% 0px 15%;
     background: #4aaaa5;
     color: white;
     font-size: 17px;
@@ -399,10 +402,11 @@ color: whitesmoke;
     background: #ffffff;
     margin: auto;
     width: 90%;
-    height: 75%;
+    max-width: 600px;
+    height: auto;
     padding: 30px;  
     border: 7.5px solid #dddddd;
-  }  
+  }
   .content {
     background-color:#4aaaa5;
     color: whitesmoke;
@@ -418,10 +422,10 @@ color: whitesmoke;
     margin: auto;
     color: whitesmoke;
     font-size: 15px;
-    padding: 30px;  
+    padding: 5%;  
     border: 7.5px solid #dddddd;
     width: 20%;
-    height: 150px;
+    height: auto;
   }
   
   .Site-footer {
