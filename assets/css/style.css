@@ -128,7 +128,7 @@ color: whitesmoke;
 
 .column {
   float: left;
-  width: 5%;
+  width: 35%;
 }
 
 .row:after {
@@ -144,12 +144,12 @@ color: whitesmoke;
   border: 7.5px solid #dddddd;
   height: 30%;
   width: 50%;
-  margin: auto;
+  margin: 15px;
 }
 
 .content2 {
   background-color:#4aaaa5;
-  margin: auto;
+  margin: 15px;
   color: whitesmoke;
   font-size: 15px;
   padding: 5%;  
@@ -234,12 +234,12 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
     height: 30%;
     width: 50%;
-    margin: auto;
+    margin: 15px;
   }
   
   .content2 {
     background-color:#4aaaa5;
-    margin: auto;
+    margin: 15px;
     color: whitesmoke;
     font-size: 15px;
     padding: 5%;  
@@ -324,12 +324,12 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
     height: 30%;
     width: 50%;
-    margin: auto;
+    margin: 15px;
   }
   
   .content2 {
     background-color:#4aaaa5;
-    margin: auto;
+    margin: 15px;
     color: whitesmoke;
     font-size: 15px;
     padding: 5%;  
@@ -414,12 +414,12 @@ color: whitesmoke;
     border: 7.5px solid #dddddd;
     height: 30%;
     width: 50%;
-    margin: auto;
+    margin: 15px;
   }
   
   .content2 {
     background-color:#4aaaa5;
-    margin: auto;
+    margin: 15px;
     color: whitesmoke;
     font-size: 15px;
     padding: 5%;  
@@ -427,11 +427,7 @@ color: whitesmoke;
     width: 20%;
     height: auto;
   }
-  
-  .column {
-    float: left;
-    width: 5%;
-  }
+
   .Site-footer {
     -webkit-box-flex: 0;
     -webkit-flex: none;
